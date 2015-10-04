@@ -1,0 +1,27 @@
+﻿body {
+    background: #F5F5F5;
+}
+.container{
+    background:#EEEEEE;
+}
+.Cuerpo{
+    padding:0;
+}
+.Cuerpo .col .col{
+    margin:0;
+    padding:0;
+}
+.Textcampo{
+    width:100%;
+}
+.m4{
+    border-radius:0;
+    height:150px;
+    padding:0;
+    margin:0;
+}
+a{
+    border-radius:0;
+    width:100%;
+    min-height:150px;
+}
