@@ -11,4 +11,4 @@
 //==== 00100 ============================================== = ===
 
 Calculadora básica en asp.net c# aplicando el framework de Materialize,
-desarrollado aplicando tecnologias .net para la practica de de los conocimientos.
+desarrollo aplicando tecnologias .net.
